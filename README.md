@@ -29,7 +29,8 @@
 - 4、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-afdac1f2a8eb5471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-## 信息设计：
+## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-75f277e121519c6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 原型文档：
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：

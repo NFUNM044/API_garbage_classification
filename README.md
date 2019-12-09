@@ -4,7 +4,7 @@
 |:-:|:-:|
 | 学号  | 171013044  |
 | APP名称 | 易扔  |
-| APP类别 | 垃圾分类  |
+| APP类别 | 生活、工具  |
 # PRD价值主张设计：
 ## 产品介绍：
 - 易扔App是一款提供给用户，根据用户定位地点进行不同城市的垃圾分类要求，可通过语音、文字、图像识别垃圾的垃圾分类助手APP。致力于帮助用户轻松应对垃圾分类的难题。
@@ -21,3 +21,17 @@
 |:-|:-: | :-: |:-:|:-:|
 |垃圾太多分类， 无法确认垃圾的种类。|需要快速准确的垃圾分类 | 重 要 |垃圾识别(语音、图像)|[京东人工智能垃圾分类API](http://neuhub.jd.com/ai/api/image/garbageClassify)  | 
 |不同城市的垃圾分类标准要求不同|需要本城市垃圾分类标准，准确分类|重要  |用户定位  |[高德地图地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo) | 
+# 二、原型设计
+## 交互及界面设计：
+- 1、首页：用户进入易扔APP后，可选择不同垃圾识别功能。![易扔APP首页.png](https://upload-images.jianshu.io/upload_images/9509773-4e181359820072f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 2、文字搜索：用户可以进行文字搜索，可描述具体垃圾内容。![易扔APP 文字搜索.png](https://upload-images.jianshu.io/upload_images/9509773-a2492aa984719123.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 3、拍照搜索：用户可进行拍照识别，快速准确查看垃圾分类。![易扔APP 拍照搜索.png](https://upload-images.jianshu.io/upload_images/9509773-1d628d5bf048411f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 4、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-afdac1f2a8eb5471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 信息设计：
+## 原型文档：
+# 三、API 产品使用关键AI或机器学习之API的输出入展示
+## 使用水平：
+## 使用比较分析：
+## 使用后风险报告：

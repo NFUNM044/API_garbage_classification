@@ -30,8 +30,10 @@
 ## 原型文档：
 ## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)
 
-## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-4c8ed708679484e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-# 三、API 产品使用关键AI或机器学习之API的输出入展示
+## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 ## 使用水平：
 |功能| 输入  | 输出|使用API|
 |:-:|:-:|:-:|:-:|
@@ -48,7 +50,7 @@
 
 
 
-- **选取文字搜索测试：**
+**选取文字搜索测试：**
 
 - ##### 可查看→ **[jupyter文字搜索测试代码【HTML】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.html)**
 - ##### 可查看→ **[jupyter文字搜索测试代码【IPYNB】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.ipynb)**
@@ -58,4 +60,21 @@
 | 聚合数据垃圾分类API |首次赠送100次使用，随后0.002元/次|成熟|高||
 | 京东垃圾分类API |免费 5000 次/日  |一般|中||
 
+- 在jupyter文字搜索测试代码【IPYNB】里可以明显看出，京东的垃圾分类API，需要不断的更新timestamp，不太完善，对比聚合数据、天行数据，天行数据的占大优势，不仅成功识别出垃圾，且相关垃圾周边也列出，可以很好的帮助用户解决问题，并且费用不高，成熟度高，性价比高，因此选择天行数据垃圾分类。
+
 ## 使用后风险报告：
+- 所使用的API类别：垃圾分类（图像识别、文字识别、语音识别）
+- 未来发展性：国家在大力提倡垃圾分类行动，上海也实施试点工作，全国各地引发热潮，不久的未来，垃圾分类的需求会越来越大，因此前景是光明的。再结合线上线下的合作，如上门回收垃圾等功能，APP的商业价值会更高。
+
+|类别| 选用API |竞争者|
+|:-:|:-:|:-:|
+|文字搜索| 天行数据垃圾分类API  |聚合数据、京东|
+|语音搜索|  天行数据垃圾分类API  |聚合数据、京东|
+|拍照搜索|  天行数据垃圾分类API  |聚合数据、京东|
+|地理定位|  高德地图API  |百度地图|
+
+
+
+网上资料：
+1.[中国垃圾分类现状分析](http://huanbao.bjx.com.cn/news/20190930/1010776.shtml)
+2.  [2019年中国垃圾分类现状及发展趋势分析](http://www.huaon.com/story/444797)

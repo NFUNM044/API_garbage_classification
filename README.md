@@ -41,8 +41,8 @@
 ## 使用比较分析：
 - **选取文字搜索测试：**
 
-- ##### 可查看→ **jupyter文字搜索测试代码【HTML】**
-- ##### 可查看→ **jupyter文字搜索测试代码【IPYNB】**
+- ##### 可查看→ **[jupyter文字搜索测试代码【HTML】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.html)**
+- ##### 可查看→ **[jupyter文字搜索测试代码【IPYNB】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.ipynb)**
 |API| 费用  |成熟度|性价比|选择|
 |:-:|:-:|:-:|:-:|:-:|
 | 天行数据垃圾分类API | 注册后赠送2000次，随后一元10000次 |成熟|高|√|

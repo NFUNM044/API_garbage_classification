@@ -19,21 +19,31 @@
 ## 需求列表与人工智能API加值：
 | 使用场景 | 用户需求  |重要程度 |对应功能  | 使用的API  | 
 |:-|:-: | :-: |:-:|:-:|
-|垃圾太多分类， 无法确认垃圾的种类。|需要快速准确的垃圾分类 | 重 要 |垃圾识别(语音、图像)|[京东人工智能垃圾分类API](http://neuhub.jd.com/ai/api/image/garbageClassify)  | 
+|垃圾太多分类， 无法确认垃圾的种类。|需要快速准确的垃圾分类 | 重 要 |垃圾识别(语音、图像)|[天行数据垃圾分类API](https://www.tianapi.com/apiview/97)  | 
 |不同城市的垃圾分类标准要求不同|需要本城市垃圾分类标准，准确分类|重要  |用户定位  |[高德地图地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo) | 
 # 二、原型设计
 ## 交互及界面设计：
-- 1、首页：用户进入易扔APP后，可选择不同垃圾识别功能。![易扔APP首页.png](https://upload-images.jianshu.io/upload_images/9509773-4e181359820072f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 2、文字搜索：用户可以进行文字搜索，可描述具体垃圾内容。![易扔APP 文字搜索.png](https://upload-images.jianshu.io/upload_images/9509773-a2492aa984719123.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 3、拍照搜索：用户可进行拍照识别，快速准确查看垃圾分类。![易扔APP 拍照搜索.png](https://upload-images.jianshu.io/upload_images/9509773-1d628d5bf048411f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 4、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-afdac1f2a8eb5471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- #####1、首页：用户进入易扔APP后，可选择不同垃圾识别功能。![易扔APP首页.png](https://upload-images.jianshu.io/upload_images/9509773-4e181359820072f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- #####2、文字搜索：用户可以进行文字搜索，可描述具体垃圾内容。![易扔APP 文字搜索.png](https://upload-images.jianshu.io/upload_images/9509773-a2492aa984719123.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- #####3、拍照搜索：用户可进行拍照识别，快速准确查看垃圾分类。![易扔APP 拍照搜索.png](https://upload-images.jianshu.io/upload_images/9509773-1d628d5bf048411f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- #####4、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-afdac1f2a8eb5471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-75f277e121519c6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-## 原型文档：
-- [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)
+## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-4c8ed708679484e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
+|功能| 输入  | 输出|使用API|
+|:-:|:-:|:-:|:-:|
+| 文字搜索 | 垃圾名称  |垃圾分类、投放建议|天行数据垃圾识别（文本识别）|
+| 拍照搜索 | 垃圾图片  |垃圾物体、垃圾分类、投放建议 |京东垃圾分类识别（图像识别）|
+| 语音搜索 | 垃圾名称  |垃圾物体、垃圾分类、投放建议|京东垃圾分类识别（语音识别）|
 ## 使用比较分析：
+- **选取文字搜索测试：**
+
+|API| 费用  |成熟度|性价比|选择|
+|:-:|:-:|:-:|:-:|:-:|
+| 天行数据垃圾分类API | 注册后赠送2000次，随后一元10000次 |成熟|高|√|
+| 聚合数据垃圾分类API |首次赠送100次使用，随后0.002元/次|成熟|高||
+| 京东垃圾分类API |免费 5000 次/日  |一般|中||
+
 ## 使用后风险报告：

@@ -41,8 +41,11 @@
 
 #### 核心API：天行数据垃圾识别（文本识别）输入、输出展示：
 - 代码输入值：
-![输入值.png](https://upload-images.jianshu.io/upload_images/9509773-a4a9cf5fbdb6ebab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![返回值.png](https://upload-images.jianshu.io/upload_images/9509773-84ce7c6b16e2c0c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![输入值.png](https://upload-images.jianshu.io/upload_images/9509773-dfd20c9a48b6a009.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 代码输出值：
+![输出值.png](https://upload-images.jianshu.io/upload_images/9509773-337614de046eae22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 - **选取文字搜索测试：**

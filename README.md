@@ -35,10 +35,16 @@
 ## 使用水平：
 |功能| 输入  | 输出|使用API|
 |:-:|:-:|:-:|:-:|
-| 文字搜索 | 垃圾名称  |垃圾分类、投放建议|天行数据垃圾识别（文本识别）|
+| * 文字搜索 | 垃圾名称  |垃圾分类、投放建议|天行数据垃圾识别（文本识别）|
 | 拍照搜索 | 垃圾图片  |垃圾物体、垃圾分类、投放建议 |京东垃圾分类识别（图像识别）|
 | 语音搜索 | 垃圾名称  |垃圾物体、垃圾分类、投放建议|京东垃圾分类识别（语音识别）|
-## 使用比较分析：
+
+#### 核心API：天行数据垃圾识别（文本识别）输入、输出展示：
+- 代码输入值：
+![输入值.png](https://upload-images.jianshu.io/upload_images/9509773-a4a9cf5fbdb6ebab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![返回值.png](https://upload-images.jianshu.io/upload_images/9509773-84ce7c6b16e2c0c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 - **选取文字搜索测试：**
 
 - ##### 可查看→ **[jupyter文字搜索测试代码【HTML】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.html)**

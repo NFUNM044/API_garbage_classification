@@ -30,6 +30,8 @@
 ## 原型文档：
 ## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)
 
+## [原型文件，供下载](https://github.com/NFUNM044/prototype_download)
+
 ## 信息设计：
 - 产品流程图：
 

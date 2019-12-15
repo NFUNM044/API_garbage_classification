@@ -30,7 +30,10 @@
 ## 原型文档：
 ## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)
 
-## 信息设计：![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## 信息设计：
+- 产品流程图：
+
+![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 

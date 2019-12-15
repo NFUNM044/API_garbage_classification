@@ -33,6 +33,14 @@
 ## [原型文件，供下载](https://github.com/NFUNM044/prototype_download)  ← 可点击下载
 
 ## 信息设计：
+
+- 产品结构图：
+![易扔产品结构图.png](https://upload-images.jianshu.io/upload_images/9509773-e565f9598809cfd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
 - 产品流程图：
 
 ![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

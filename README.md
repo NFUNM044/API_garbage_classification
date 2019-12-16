@@ -62,7 +62,7 @@
 ![输出值.png](https://upload-images.jianshu.io/upload_images/9509773-337614de046eae22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
+## 使用比较分析
 **选取文字搜索测试：**
 
 - ##### 可查看→ **[jupyter文字搜索测试代码【HTML】](https://github.com/NFUNM044/API_garbage_classification/blob/master/garbage_classification_compared.html)**

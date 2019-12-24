@@ -5,7 +5,7 @@
 | 学号  | 171013044  |
 | APP名称 | 易扔  |
 | APP类别 | 生活、工具  |
-# ⭐PRD价值主张设计：
+# ⭐一、PRD价值主张设计：
 ## 产品介绍：
 - 易扔App是一款提供给用户，根据用户定位地点进行不同城市的垃圾分类要求，可通过语音、文字、图像识别垃圾的垃圾分类助手APP。致力于帮助用户轻松应对垃圾分类的难题。
 ## 价值宣言：
@@ -21,7 +21,7 @@
 |:-|:-: | :-: |:-:|:-:|
 |垃圾太多分类， 无法确认垃圾的种类。|需要快速准确的垃圾分类 | 重 要 |垃圾识别(语音、图像)|[天行数据垃圾分类API](https://www.tianapi.com/apiview/97)  | 
 |不同城市的垃圾分类标准要求不同|需要本城市垃圾分类标准，准确分类|重要  |用户定位  |[高德地图地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo) | 
-# ⭐原型设计
+# ⭐二、原型设计
 ## 交互及界面设计：
 - 1、首页：用户进入易扔APP后，可选择不同垃圾识别功能。![易扔APP首页.png](https://upload-images.jianshu.io/upload_images/9509773-4e181359820072f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 2、文字搜索：用户可以进行文字搜索，可描述具体垃圾内容。![易扔APP 文字搜索.png](https://upload-images.jianshu.io/upload_images/9509773-a2492aa984719123.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -45,7 +45,7 @@
 
 ![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# ⭐API 产品使用关键AI或机器学习之API的输出入展示
+# ⭐三、API 产品使用关键AI或机器学习之API的输出入展示
 
 ## 使用水平：
 |功能| 输入  | 输出|使用API|
@@ -87,7 +87,7 @@
 |地理定位|  高德地图API  |百度地图|
 
 
-
+<br>
 网上资料：
 1.[中国垃圾分类现状分析](http://huanbao.bjx.com.cn/news/20190930/1010776.shtml) <br>
 2.  [2019年中国垃圾分类现状及发展趋势分析](http://www.huaon.com/story/444797)

@@ -23,8 +23,7 @@
 |不同城市的垃圾分类标准要求不同|需要本城市垃圾分类标准，准确分类|重要  |用户定位  |[高德地图地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo) | 
 # ⭐二、原型设计
 ## 交互及界面设计：
-- 1、启动页：用户引入眼帘的是一个垃圾桶和易扔APP的slogen。
-![易扔APP启动页.png](https://upload-images.jianshu.io/upload_images/9509773-93ea6a3427ddc255.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 1、启动页：用户引入眼帘的是一个垃圾桶和易扔APP的slogen。<br>![易扔APP启动页.png](https://upload-images.jianshu.io/upload_images/9509773-93ea6a3427ddc255.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - 2、首页：用户进入易扔APP后，可选择不同垃圾识别功能。![易扔APP首页.png](https://upload-images.jianshu.io/upload_images/9509773-4e181359820072f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

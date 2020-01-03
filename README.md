@@ -40,7 +40,10 @@
 
 
 
-- 5、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-afdac1f2a8eb5471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 5、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-1210f7dd597b4047.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 ## 原型文档：
 ## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)  ← 可点击查看
 

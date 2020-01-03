@@ -42,7 +42,11 @@
 
 - 5、语音搜索：用户选择语音搜索，可节省打字的时间。![易扔APP 语音搜索.png](https://upload-images.jianshu.io/upload_images/9509773-1210f7dd597b4047.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- 6、分类查看：用户可以点击查看垃圾分类知识，帮助用户分清垃圾类别。![易扔APP 分类查看.png](https://upload-images.jianshu.io/upload_images/9509773-ba5e7915d3e97039.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+
+![易扔APP 分类查看.png](https://upload-images.jianshu.io/upload_images/9509773-ba5e7915d3e97039.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 原型文档：
 ## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)  ← 可点击查看

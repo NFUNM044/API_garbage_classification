@@ -51,7 +51,7 @@
 
 
 ## 原型文档：
-## [易扔APP可交互原型](http://jiayingb.gitee.io/api_app_garbage_classification)  ← 可点击查看
+## [易扔APP可交互原型](https://nfunm044.github.io/prototype_download/.)  ← 可点击查看
 
 ## [原型文件，供下载](https://github.com/NFUNM044/prototype_download)  ← 可点击下载
 

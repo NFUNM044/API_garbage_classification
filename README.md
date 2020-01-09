@@ -64,7 +64,7 @@
 
 
 
-- 产品流程图：
+- 核心功能流程图：
 
 ![原型信息设计流程.jpg](https://upload-images.jianshu.io/upload_images/9509773-b963169699a21fdc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
